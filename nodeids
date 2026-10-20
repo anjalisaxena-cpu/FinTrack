@@ -1,0 +1,11 @@
+[
+  "tests/test_market_service.py::MarketServiceContractTests::test_history_is_empty_when_provider_has_no_candles",
+  "tests/test_market_service.py::MarketServiceContractTests::test_live_quote_uses_real_market_source_when_available",
+  "tests/test_market_service.py::MarketServiceContractTests::test_market_service_interface",
+  "tests/test_market_service.py::MarketServiceContractTests::test_market_wrapper_forwards_user_access_token",
+  "tests/test_market_service.py::MarketServiceContractTests::test_stream_tick_updates_quote_and_incremental_history",
+  "tests/test_market_service.py::MarketServiceContractTests::test_tick_api_returns_incremental_ticks_and_live_pnl",
+  "tests/test_market_service.py::MarketServiceContractTests::test_trading_page_renders_with_holdings",
+  "tests/test_market_service.py::MarketServiceContractTests::test_twelve_data_key_and_minute_interval_are_used",
+  "tests/test_market_service.py::MarketServiceContractTests::test_upstox_v3_ltpc_payload_is_recorded_as_exchange_tick"
+]
